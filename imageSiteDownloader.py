@@ -1,6 +1,6 @@
 #! python3
 # imageSiteDownloader.py - Goes to your favorite image site,
-# then downloads specified search results of images.
+# then downloads specified search results.
 
 import bs4, os, requests, sys
 
